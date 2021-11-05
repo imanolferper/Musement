@@ -2,6 +2,10 @@ READ ME:
 
 By Imanol Fernández Periañez 
 
+1- The file musement.sh contains the first task of the work.
+
+2- The app folders contains the rest api implemented in PHP.
+
 This is a REST API which provide about the weather in each city.
 You dont need to install nothing, just upload this to a server and make tests.
 It has an easy architecture and is implemented based on a more complex rest api. I have simplified it for simple reasons of use, in this case nothing more is necessary. In this way, it will be more understandable for the developer who has to create it. Nos is implement in PHP, i have not used any framework.
